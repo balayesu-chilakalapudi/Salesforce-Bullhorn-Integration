@@ -1,0 +1,12 @@
+<apex:page controller="BullhornConnector">
+<apex:form >
+    <apex:pageblock >
+        
+        <apex:commandbutton action="{!BullhornAuth}" value="Bullhorn Authentication">
+		
+    </apex:commandbutton>
+
+</apex:pageblock>
+    
+</apex:form>
+</apex:page>
